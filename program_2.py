@@ -1,3 +1,4 @@
+#Bible Verse Function
 #Joseph Rydberg 8/30/2024
 
 def proverbs_22_29():
